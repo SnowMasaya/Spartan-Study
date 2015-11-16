@@ -1,0 +1,13 @@
+numpy
+ipython==4.0.0
+notebook==4.0.4
+jinja2==2.8
+pyzmq==14.7.0
+tornado==4.1
+scipy
+dsltools
+cython
+parakeet
+scikit-learn
+traits
+psutil
